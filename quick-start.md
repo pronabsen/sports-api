@@ -28,9 +28,9 @@ https://sports-api.xyz/api/cricket/v1/
 
 To make your first request, send an authenticated request to the pets endpoint. This will create a `pet`, which is nice.
 
-{% swagger baseUrl="https://sports-api.xyz/api/cricket/v1/check" method="post" path="/pet" summary="Create pet." %}
+{% swagger baseUrl="https://sports-api.xyz/api/cricket/v1/check" method="get" path="" summary="Create GET request and Check your API ." %}
 {% swagger-description %}
-Creates a new pet.
+
 {% endswagger-description %}
 
 {% swagger-parameter in="header" name="auth-key" required="true" %}
