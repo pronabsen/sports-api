@@ -6,8 +6,5 @@
 ## 🚀 API Collections
 
 * [Check](api-collections/check.md)
-* [Copy of Check](api-collections/copy-of-check.md)
-
-## Group 1
-
-* [GET Api Check](group-1/get-api-check.md)
+* [Fixtures](api-collections/fixtures.md)
+* [Finished Matches](api-collections/finished-matches.md)
