@@ -1,16 +1,19 @@
 # 🎆 Quick Start
 
-Before you are able to use our API services you need a Sport-API account. [Register now.](https://my.sportmonks.com/register)
+Before you are able to use our API services you need a Sport-API account. [Register now.](https://sports-api.xyz/register)
 
-To make our first request, we’ll need to authenticate first. Our Sport-API has Cricket API Version 1.0 utilizes API Auth & App Secret Key for the authentication of requests. You can obtain and manage your API Auth & App Secret Key in [Mysportmonks](https://my.sportmonks.com/login).
+To make our first request, we’ll need to authenticate first. Our Sport-API has Cricket API Version 1.0 utilizes API Auth & App Secret Key for the authentication of requests. You can obtain and manage your API Auth & App Secret Key in [SPORTS-API](https://sports-api.xyz/login).
 
 **Example API Auth Key: \[HdoiD312ND….]**
 
 **Example API Secret Key: \[HdoiD312ND….]**
 
-
-
 Sport-API (Cricket API) Version 1.0 utilizes response codes to indicate successful and failed API requests.
+
+{% hint style="info" %}
+We recommend you use Postman for convenience. Every endpoint has an example request ready to be requested by you. Hit the button below to import our Cricket API collection.\
+[​![](https://run.pstmn.io/button.svg)​](https://documenter.getpostman.com/view/13066863/Uz5CLdUZ)​
+{% endhint %}
 
 ## Build your first Request
 

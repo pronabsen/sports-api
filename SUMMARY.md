@@ -14,4 +14,4 @@
 * [Get All Series](api-collections/get-all-series.md)
 * [Series PointsTable](api-collections/series-pointstable.md)
 * [Get Match Squad](api-collections/get-match-squad.md)
-* [🧑💻 🧑💻 Updating Soon](api-collections/updating-soon.md)
+* [🧑💻 Updating Soon](api-collections/updating-soon.md)
